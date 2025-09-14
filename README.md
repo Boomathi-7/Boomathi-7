@@ -25,7 +25,7 @@
 <p align="left">
   <a href="https://github.com/Boomathi-7"><img src="https://img.shields.io/badge/GitHub-Boomathi Palanisamy-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:boomathi2047@gmail.com"><img src="https://img.shields.io/badge/Email-boomathi2047%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="www.linkedin.com/in/boomathi-palanisamy-75693b314"><img src="https://img.shields.io/badge/LinkedIn-Boomathi Palanisamy-blue?style=for-the-badge&logo=linkedin" /></a>
+  </a>
 </p>
 
 <!---
