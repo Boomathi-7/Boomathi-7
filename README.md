@@ -24,6 +24,7 @@
 
 <p align="left">
   <a href="mailto:boomathi2047@gmail.com"><img src="https://img.shields.io/badge/Email-boomathi2047%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/boomathi-palanisamy-75693b314"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   </a>
 </p>
 
